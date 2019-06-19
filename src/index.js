@@ -281,7 +281,7 @@ module.exports = (
   >
     <span
       class="${imageBackgroundClass}"
-      style="padding-bottom: ${ratio}; position: relative; bottom: 0; left: 0; background-image: url('${placeholderImageData}'); background-size: cover; display: block;"
+      style="padding-bottom: ${ratio}; position: relative; bottom: 0; left: 0; background-size: cover; display: block;"
     ></span>
     ${imageTag}
   </span>
