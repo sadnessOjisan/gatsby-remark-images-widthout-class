@@ -1,7 +1,7 @@
 {
   "name": "gatsby-remark-images-without-bg",
   "description": "gatsby-remark-images for amp",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "author": "sadnessOjisan <sadness.ojisan@gmail.com>",
   "bugs": {
     "url": "https://github.com/sadnessOjisan/gatsby-remark-images-without-bg/issues"
